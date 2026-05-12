@@ -1,0 +1,802 @@
+{
+  "1": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "2": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "3": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "4": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "5": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "6": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "7": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "8": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "9": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "10": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "11": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "12": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "13": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "14": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "15": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "16": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "17": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "18": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "19": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "20": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "21": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "22": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "23": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "24": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "25": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "26": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "27": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "28": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "29": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "30": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "31": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "32": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "33": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "34": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "35": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "36": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "37": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "38": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "39": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "40": {
+    "rating": 1,
+    "label": "NEGATIVE"
+  },
+  "41": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "42": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "43": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "44": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "45": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "46": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "47": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "48": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "49": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "50": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "51": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "52": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "53": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "54": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "55": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "56": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "57": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "58": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "59": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "60": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "61": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "62": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "63": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "64": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "65": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "66": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "67": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "68": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "69": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "70": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "71": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "72": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "73": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "74": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "75": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "76": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "77": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "78": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "79": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "80": {
+    "rating": 2,
+    "label": "NEGATIVE"
+  },
+  "81": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "82": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "83": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "84": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "85": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "86": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "87": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "88": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "89": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "90": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "91": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "92": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "93": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "94": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "95": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "96": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "97": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "98": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "99": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "100": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "101": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "102": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "103": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "104": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "105": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "106": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "107": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "108": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "109": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "110": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "111": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "112": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "113": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "114": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "115": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "116": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "117": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "118": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "119": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "120": {
+    "rating": 3,
+    "label": "NEUTRAL"
+  },
+  "121": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "122": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "123": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "124": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "125": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "126": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "127": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "128": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "129": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "130": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "131": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "132": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "133": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "134": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "135": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "136": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "137": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "138": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "139": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "140": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "141": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "142": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "143": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "144": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "145": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "146": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "147": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "148": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "149": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "150": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "151": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "152": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "153": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "154": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "155": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "156": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "157": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "158": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "159": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "160": {
+    "rating": 4,
+    "label": "POSITIVE"
+  },
+  "161": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "162": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "163": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "164": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "165": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "166": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "167": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "168": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "169": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "170": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "171": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "172": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "173": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "174": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "175": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "176": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "177": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "178": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "179": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "180": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "181": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "182": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "183": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "184": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "185": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "186": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "187": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "188": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "189": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "190": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "191": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "192": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "193": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "194": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "195": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "196": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "197": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "198": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "199": {
+    "rating": 5,
+    "label": "POSITIVE"
+  },
+  "200": {
+    "rating": 5,
+    "label": "POSITIVE"
+  }
+}

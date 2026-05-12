@@ -20,7 +20,7 @@ assert os.getenv('OPENROUTER_API_KEY'), 'OPENROUTER_API_KEY missing in .env'
 
 # Same LLM for all three agents
 llm = LLM(
-    model='openrouter/openai/gpt-oss-120b:free',
+    model='openrouter/openai/gpt-oss-20b:free',
     base_url='https://openrouter.ai/api/v1',
     api_key=os.getenv('OPENROUTER_API_KEY'),
 )
@@ -33,7 +33,7 @@ server_params = StdioServerParameters(
 )
 
 # Which review to process — change to '1', '2', '3', '4', '5', or '6'
-REVIEW_ID = '4'
+REVIEW_ID = '200'
 
 with MCPServerAdapter(server_params) as mcp_tools:
 
