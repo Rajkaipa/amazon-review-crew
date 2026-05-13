@@ -1,0 +1,643 @@
+{
+  "summary": {
+    "total": 60,
+    "correct": 44,
+    "accuracy": 0.7333,
+    "parse_failures": 0,
+    "total_seconds": 1905.7,
+    "avg_seconds_per_review": 31.76
+  },
+  "per_class": {
+    "POSITIVE": {
+      "precision": 0.889,
+      "recall": 0.8,
+      "support": 20
+    },
+    "NEGATIVE": {
+      "precision": 0.711,
+      "recall": 1.0,
+      "support": 27
+    },
+    "NEUTRAL": {
+      "precision": 0.25,
+      "recall": 0.077,
+      "support": 13
+    }
+  },
+  "confusion_matrix": {
+    "NEGATIVE_vs_NEGATIVE": 27,
+    "NEUTRAL_vs_NEGATIVE": 10,
+    "NEUTRAL_vs_POSITIVE": 2,
+    "NEUTRAL_vs_NEUTRAL": 1,
+    "POSITIVE_vs_POSITIVE": 16,
+    "POSITIVE_vs_NEGATIVE": 1,
+    "POSITIVE_vs_NEUTRAL": 3,
+    "NEGATIVE_vs_POSITIVE": 0,
+    "POSITIVE_vs_PARSE_FAIL": 0,
+    "NEGATIVE_vs_NEUTRAL": 0,
+    "NEGATIVE_vs_PARSE_FAIL": 0,
+    "NEUTRAL_vs_PARSE_FAIL": 0
+  },
+  "results": [
+    {
+      "id": "1",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.98,
+      "justification": "The review expresses clear frustration and a defective product, with no positive remarks.",
+      "correct": true,
+      "seconds": 33.1
+    },
+    {
+      "id": "4",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.99,
+      "justification": "Reviewer is highly frustrated, claims product doesn't work, support is unresponsive, calls it a rip-off.",
+      "correct": true,
+      "seconds": 37.1
+    },
+    {
+      "id": "7",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.88,
+      "justification": "Review expresses clear dissatisfaction with delivery delays and lack of compliance with promised shipping dates.",
+      "correct": true,
+      "seconds": 26.4
+    },
+    {
+      "id": "10",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "The reviewer expresses strong frustration and regret over the product’s failures and inability to return it.",
+      "correct": true,
+      "seconds": 30.5
+    },
+    {
+      "id": "13",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.98,
+      "justification": "The reviewer expresses strong frustration and dissatisfaction without any positive remarks.",
+      "correct": true,
+      "seconds": 12.6
+    },
+    {
+      "id": "16",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.98,
+      "justification": "The reviewer expresses clear frustration and dissatisfaction, blaming the products for damage.",
+      "correct": true,
+      "seconds": 20.0
+    },
+    {
+      "id": "19",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.98,
+      "justification": "The reviewer explicitly reports broken stems, mismatched shapes, blemishes, and overall frustration.",
+      "correct": true,
+      "seconds": 17.7
+    },
+    {
+      "id": "22",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.94,
+      "justification": "Reviewer expresses clear frustration, product failure, unprocessed refund, and seller’s inappropriate request.",
+      "correct": true,
+      "seconds": 24.2
+    },
+    {
+      "id": "25",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "Reviewer experienced product failure and expressed frustration, indicating clear dissatisfaction.",
+      "correct": true,
+      "seconds": 21.3
+    },
+    {
+      "id": "28",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "Reviewer expresses strong frustration and safety concerns, with no redeeming positives, indicating clear dissatisfaction.",
+      "correct": true,
+      "seconds": 19.5
+    },
+    {
+      "id": "31",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.96,
+      "justification": "The review is overwhelmingly critical, citing product failure, business loss, and a recommendation to avoid the product.",
+      "correct": true,
+      "seconds": 27.4
+    },
+    {
+      "id": "34",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.94,
+      "justification": "Reviewer reports rapid failure and expresses frustration, indicating strong dissatisfaction.",
+      "correct": true,
+      "seconds": 25.9
+    },
+    {
+      "id": "37",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "Reviewer expresses frustration and regret, noting broken glass and hanging bulb, concluding it was not worth the hassle.",
+      "correct": true,
+      "seconds": 21.1
+    },
+    {
+      "id": "40",
+      "rating": 1,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "Reviewer expresses strong dissatisfaction with odor, wrong thickness, and firmness, with no positive remark.",
+      "correct": true,
+      "seconds": 26.0
+    },
+    {
+      "id": "43",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.95,
+      "justification": "The reviewer explicitly warns against buying due to consistent leakage.",
+      "correct": true,
+      "seconds": 11.5
+    },
+    {
+      "id": "46",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.85,
+      "justification": "Reviewer is frustrated over a brittle post that broke after two weeks, indicating strong dissatisfaction.",
+      "correct": true,
+      "seconds": 20.5
+    },
+    {
+      "id": "49",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.95,
+      "justification": "The reviewer was frustrated, experienced discomfort, and returned the product.",
+      "correct": true,
+      "seconds": 35.5
+    },
+    {
+      "id": "52",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.96,
+      "justification": "The review expresses strong dissatisfaction with frequent cracking and a clear intent not to repurchase.",
+      "correct": true,
+      "seconds": 32.7
+    },
+    {
+      "id": "55",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.95,
+      "justification": "Reviewer expresses strong frustration and dissatisfaction with intermittent remote control performance.",
+      "correct": true,
+      "seconds": 42.1
+    },
+    {
+      "id": "58",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "The reviewer is upset about receiving the wrong size and shows clear dissatisfaction.",
+      "correct": true,
+      "seconds": 44.9
+    },
+    {
+      "id": "61",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.9,
+      "justification": "The reviewer’s enthusiasm turns to disappointment due to transparency and poor stretch, indicating dissatisfaction.",
+      "correct": true,
+      "seconds": 32.4
+    },
+    {
+      "id": "64",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.97,
+      "justification": "The review expresses clear dissatisfaction and frustration with a product that failed too soon, indicating a negative verdict.",
+      "correct": true,
+      "seconds": 33.9
+    },
+    {
+      "id": "67",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "The reviewer reports all key functions are non‑working and expresses frustration, indicating a clear dislike.",
+      "correct": true,
+      "seconds": 26.7
+    },
+    {
+      "id": "70",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "Reviewer's frustration, setup difficulty, and doubts about functionality indicate a negative verdict.",
+      "correct": true,
+      "seconds": 24.9
+    },
+    {
+      "id": "73",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "Review expresses frustration and disappointment over the seat restraint failing to work as promised.",
+      "correct": true,
+      "seconds": 30.3
+    },
+    {
+      "id": "76",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "The reviewer is clearly disappointed, noting size discrepancy and shedding, with no positive remarks.",
+      "correct": true,
+      "seconds": 35.2
+    },
+    {
+      "id": "79",
+      "rating": 2,
+      "true_label": "NEGATIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "The reviewer expresses clear dissatisfaction and frustration with the product.",
+      "correct": true,
+      "seconds": 33.2
+    },
+    {
+      "id": "82",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.85,
+      "justification": "The review expresses strong disappointment over early damage, showing a negative overall experience.",
+      "correct": false,
+      "seconds": 29.9
+    },
+    {
+      "id": "85",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.75,
+      "justification": "The reviewer expresses uncertainty about protection and plans to find a better solution, indicating dissatisfaction.",
+      "correct": false,
+      "seconds": 26.5
+    },
+    {
+      "id": "88",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.85,
+      "justification": "The review highlights significant performance flaws that outweigh the few positives, indicating dissatisfaction.",
+      "correct": false,
+      "seconds": 29.5
+    },
+    {
+      "id": "91",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.87,
+      "justification": "The review ends with disappointment over sizing larger than expected, indicating dissatisfaction.",
+      "correct": false,
+      "seconds": 31.6
+    },
+    {
+      "id": "94",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "POSITIVE",
+      "confidence": 0.8,
+      "justification": "Reviewer praises product quality and would purchase again despite service issues.",
+      "correct": false,
+      "seconds": 43.6
+    },
+    {
+      "id": "97",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEUTRAL",
+      "confidence": 0.7,
+      "justification": "The review lists equal pros and cons with no clear recommendation.",
+      "correct": true,
+      "seconds": 34.6
+    },
+    {
+      "id": "100",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.93,
+      "justification": "Reviewers express clear frustration and disappointment over missing items and damaged packaging, with no indication they would buy again.",
+      "correct": false,
+      "seconds": 33.2
+    },
+    {
+      "id": "103",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.97,
+      "justification": "The review is dominated by frustration and complaints about sizing and stitching, with no positive remarks, indicating clear dissatisfaction.",
+      "correct": false,
+      "seconds": 36.9
+    },
+    {
+      "id": "106",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.96,
+      "justification": "Reviewer expresses strong frustration over early blade failure and regrets the purchase.",
+      "correct": false,
+      "seconds": 44.1
+    },
+    {
+      "id": "109",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "POSITIVE",
+      "confidence": 0.85,
+      "justification": "Reviewer overall praises the keyboard set, though noting some accessory flaws.",
+      "correct": false,
+      "seconds": 42.6
+    },
+    {
+      "id": "112",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.99,
+      "justification": "Reviewer reports leaks and poor sealing, indicating strong dissatisfaction.",
+      "correct": false,
+      "seconds": 35.3
+    },
+    {
+      "id": "115",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.92,
+      "justification": "The reviewer expresses clear dissatisfaction with the small opening and weak suction, and suggests they'd rather buy a cheaper alternative.",
+      "correct": false,
+      "seconds": 41.5
+    },
+    {
+      "id": "118",
+      "rating": 3,
+      "true_label": "NEUTRAL",
+      "predicted": "NEGATIVE",
+      "confidence": 0.95,
+      "justification": "The review explicitly states the pad feels plastic and the user is not a big fan, indicating dissatisfaction.",
+      "correct": false,
+      "seconds": 37.5
+    },
+    {
+      "id": "121",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.95,
+      "justification": "The review predominantly praises performance and features despite a minor durability concern.",
+      "correct": true,
+      "seconds": 39.2
+    },
+    {
+      "id": "124",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.99,
+      "justification": "The review is overwhelmingly positive with no complaints.",
+      "correct": true,
+      "seconds": 26.7
+    },
+    {
+      "id": "127",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "NEGATIVE",
+      "confidence": 0.94,
+      "justification": "Reviewer clearly expresses frustration and regret over multiple defects.",
+      "correct": false,
+      "seconds": 40.7
+    },
+    {
+      "id": "130",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "NEUTRAL",
+      "confidence": 0.92,
+      "justification": "Reviewer offers a single constructive suggestion without showing positive or negative bias.",
+      "correct": false,
+      "seconds": 30.5
+    },
+    {
+      "id": "133",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "NEUTRAL",
+      "confidence": 0.72,
+      "justification": "The review expresses mild frustration but overall is accepting, noting ease of assembly and acceptability on carpet.",
+      "correct": false,
+      "seconds": 42.4
+    },
+    {
+      "id": "136",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.85,
+      "justification": "Reviewer praises quality and durability despite noting a minor odor issue.",
+      "correct": true,
+      "seconds": 39.6
+    },
+    {
+      "id": "139",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.92,
+      "justification": "Reviewer praises the design and spaciousness, resolves the strap issue quickly, and overall remains upbeat.",
+      "correct": true,
+      "seconds": 37.6
+    },
+    {
+      "id": "142",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.97,
+      "justification": "The reviewer praises the new buckle, notes improvements and price value despite minor issues.",
+      "correct": true,
+      "seconds": 35.1
+    },
+    {
+      "id": "145",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "NEUTRAL",
+      "confidence": 0.6,
+      "justification": "The review acknowledges good fabric but also notes significant delivery delay and size issues, resulting in a mixed, undecided stance.",
+      "correct": false,
+      "seconds": 26.9
+    },
+    {
+      "id": "148",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.98,
+      "justification": "The reviewer expresses enthusiastic approval and no complaints.",
+      "correct": true,
+      "seconds": 32.9
+    },
+    {
+      "id": "151",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 1.0,
+      "justification": "The review expresses clear approval and satisfaction.",
+      "correct": true,
+      "seconds": 22.0
+    },
+    {
+      "id": "154",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.88,
+      "justification": "The reviewer praises softness, color accuracy, and coverage, with only minor caveats about thinness.",
+      "correct": true,
+      "seconds": 21.5
+    },
+    {
+      "id": "157",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.92,
+      "justification": "Reviewer praises comfort and value, no complaints.",
+      "correct": true,
+      "seconds": 34.4
+    },
+    {
+      "id": "160",
+      "rating": 4,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.75,
+      "justification": "The reviewer expresses overall satisfaction (\"Great so far\") despite raising some concerns.",
+      "correct": true,
+      "seconds": 41.9
+    },
+    {
+      "id": "163",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 1.0,
+      "justification": "The review is overwhelmingly enthusiastic with no negatives, clearly indicating satisfaction and willingness to recommend.",
+      "correct": true,
+      "seconds": 40.2
+    },
+    {
+      "id": "166",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.93,
+      "justification": "Reviewer clearly recommends the discus, calling it great and price‑justified.",
+      "correct": true,
+      "seconds": 39.2
+    },
+    {
+      "id": "169",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.99,
+      "justification": "The review expresses satisfaction and clear approval with no complaints.",
+      "correct": true,
+      "seconds": 34.3
+    },
+    {
+      "id": "172",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.96,
+      "justification": "The reviewer expresses satisfaction with the slimness, aesthetics, and protection, indicating a clear approval.",
+      "correct": true,
+      "seconds": 46.1
+    },
+    {
+      "id": "175",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.99,
+      "justification": "Reviewer expresses enthusiastic satisfaction with outstanding quality and durability.",
+      "correct": true,
+      "seconds": 35.1
+    },
+    {
+      "id": "178",
+      "rating": 5,
+      "true_label": "POSITIVE",
+      "predicted": "POSITIVE",
+      "confidence": 0.98,
+      "justification": "The review expresses clear praise with no negative remarks.",
+      "correct": true,
+      "seconds": 25.9
+    }
+  ]
+}
