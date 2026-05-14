@@ -35,8 +35,6 @@ st.sidebar.markdown(
     "This app uses a **multi-agent CrewAI pipeline** "
     "(Analyst → Classifier) with `gpt-oss-20b` via OpenRouter "
     "to classify any product review.\n\n"
-    "Backed by an evaluation harness: **73.3% accuracy** on 60 "
-    "real Amazon reviews."
 )
 
 st.sidebar.divider()
